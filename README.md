@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DmitryDavidovich
-- 👀 I’m interested in QA Manual and QA Automatization processes
+- 👀 I’m QA Engineer (Manual) and interested in QA Automatization processes
 - 📫 How to reach me: dmitry.davidovich@gmail.com
 
 <!---
