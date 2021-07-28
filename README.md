@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DmitryDavidovich
 - 👀 I’m interested in QA Manual and QA Automatization processes
-- 🌱 I am currently doing a QA Manual internship.
 - 📫 How to reach me: dmitry.davidovich@gmail.com
 
 <!---
